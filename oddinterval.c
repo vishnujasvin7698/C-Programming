@@ -11,7 +11,7 @@ for(i=f1;i<=f2;i++)
   rem=i%2;
    if(rem!=0)
    {
-    printf("%d,i);
+    printf("%d",i);
     }
  }
  }
