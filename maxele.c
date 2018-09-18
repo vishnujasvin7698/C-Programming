@@ -4,9 +4,7 @@ int main()
 {
         int a[30];
         int n,t,i,max;
-        printf("Enter the size of the array:");
         scanf("%d",&n); 
-        printf("Enter the elements:");
         scanf("%d",&t);
         for(i=0;i<n;i++)
         {
